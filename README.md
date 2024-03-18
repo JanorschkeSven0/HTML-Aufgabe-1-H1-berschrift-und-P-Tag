@@ -1,31 +1,31 @@
 # HTML-Aufgabe-H1 Überschrift-und-P-Tag
 
-HTML-Grundstruktur mit H1-Überschrift und Absatz
+### HTML-Grundstruktur mit H1-Überschrift und Absatz
 
 In dieser Aufgabe sollst du eine HTML-Grundstruktur erstellen und eine H1-Überschrift sowie einen Absatz mit einem Text von mindestens 200 Wörtern einfügen.
-Schritt-für-Schritt-Anleitung:
 
-    Erstellen einer HTML-Datei: Öffne einen Texteditor und erstelle eine neue Datei mit der Erweiterung ".html", z. B. index.html.
+#### Schritt-für-Schritt-Anleitung:
 
-    Grundstruktur einer HTML-Datei: Füge die grundlegende Struktur einer HTML-Datei hinzu. Die Struktur besteht aus der Dokumenttyp-Deklaration, dem <html>-Tag, dem <head>-Tag und dem <body>-Tag.
+1. **Erstellen einer HTML-Datei**: Öffne einen Texteditor und erstelle eine neue Datei mit der Erweiterung ".html", z. B. `index.html`.
+
+2. **Grundstruktur einer HTML-Datei**: Füge die grundlegende Struktur einer HTML-Datei hinzu. Die Struktur besteht aus der Dokumenttyp-Deklaration, dem `<html>`-Tag, dem `<head>`-Tag und dem `<body>`-Tag.
+
+   ```html
+   <!DOCTYPE html>
+   <html lang="en">
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Meine HTML-Seite</title>
+   </head>
+   <body>
+       <!-- Hier kommt dein Inhalt -->
+   </body>
+   </html>
+
+    Hinzufügen einer H1-Überschrift: Innerhalb des <body>-Tags füge eine H1-Überschrift hinzu, indem du das <h1>-Tag verwendest.
 
     html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meine HTML-Seite</title>
-</head>
-<body>
-    <!-- Hier kommt dein Inhalt -->
-</body>
-</html>
-
-Hinzufügen einer H1-Überschrift: Innerhalb des <body>-Tags füge eine H1-Überschrift hinzu, indem du das <h1>-Tag verwendest.
-
-html
 
 <h1>Willkommen auf meiner Webseite</h1>
 
@@ -43,5 +43,4 @@ Um mehr über die Verwendung von H1-Überschriften und Absätzen in HTML zu lern
 
     W3Schools HTML h1 Tag: Informationen über das <h1>-Tag und seine Verwendung.
     W3Schools HTML p Tag: Informationen über das <p>-Tag und seine Verwendung.
-
  Viel Spaß beim Coden!
