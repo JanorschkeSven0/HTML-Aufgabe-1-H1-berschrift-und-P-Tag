@@ -44,4 +44,4 @@ Um mehr über die Verwendung von H1-Überschriften und Absätzen in HTML zu lern
     W3Schools HTML h1 Tag: Informationen über das <h1>-Tag und seine Verwendung.
     W3Schools HTML p Tag: Informationen über das <p>-Tag und seine Verwendung.
 
-Das war eine detaillierte Anleitung zur Erstellung einer HTML-Grundstruktur mit einer H1-Überschrift und einem Absatz für Neueinsteiger. Viel Spaß beim Coden!
+ Viel Spaß beim Coden!
