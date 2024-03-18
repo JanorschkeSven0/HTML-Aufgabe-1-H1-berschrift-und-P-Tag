@@ -41,6 +41,6 @@ Weiterführende Ressourcen:
 
 Um mehr über die Verwendung von H1-Überschriften und Absätzen in HTML zu lernen, kannst du folgende Ressourcen konsultieren:
 
-    W3Schools HTML h1 Tag: Informationen über das <h1>-Tag und seine Verwendung.
-    W3Schools HTML p Tag: Informationen über das <p>-Tag und seine Verwendung.
+   W3Schools HTML h1 Tag: Informationen über das <h1>-Tag und seine Verwendung.
+   W3Schools HTML p Tag: Informationen über das <p>-Tag und seine Verwendung.
  Viel Spaß beim Coden!
